@@ -1,1 +1,1 @@
-DELETE FROM northwind.unit_price;
+TRUNCATE order_details;
